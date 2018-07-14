@@ -1,5 +1,4 @@
 package imooc.domain;
-
 public class Book {
   private int id;
   private String bookname;
